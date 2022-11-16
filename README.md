@@ -1,2 +1,3 @@
 # Robust-Canonical-Correlations
-Robust generalized canonical correlations using density power divergence (DPD) and Renyi pseudodistance (RP)
+
+Robust estimation of generalized canonical correlation vectors using information theory. Use density power divergence ("DPD") or Renyi pseudodistance ("RP")
